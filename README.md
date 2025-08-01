@@ -9,6 +9,8 @@ This repository contains my weekly assignments and code submissions for the [Pro
 | 1    | Hello World, Variables, Data Types | ✅ Completed |
 | 2    | Conditionals and Loops | ✅ Completed |
 | 3    | Arrays and Math Functions | 🔄 In Progress |
+| 4    | ... | 🔄 In Progress |
+| 5    | .... | 🔄 In Progress |
 | ...  | ... | ... |
 
 ## 📁 Directory Structure
